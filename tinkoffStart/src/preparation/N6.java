@@ -1,3 +1,5 @@
+package preparation;
+
 import java.util.Scanner;
 
 public class N6 {
